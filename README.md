@@ -1,4 +1,4 @@
-🏡 Data Science - Case 01: Análise de Aluguel de Imóveis em Barcelona e Porto
+🏡 Análise de Aluguel de Imóveis em Barcelona e Porto
 
 📌 Descrição Geral
 Este projeto realiza uma análise descritiva de um conjunto de dados com informações sobre aluguéis de casas nas cidades de Barcelona 🇪🇸 e Porto 🇵🇹. O objetivo é entender os padrões de preço, características dos imóveis e apoiar decisões baseadas em dados para quem busca imóveis com critérios específicos.
